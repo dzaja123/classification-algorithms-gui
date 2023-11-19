@@ -12,8 +12,8 @@ You can download it from [python.org](https://www.python.org/downloads/).
 ### Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/dzaja123/classification-algorithms-gui.git
+cd classification-algorithms-gui
 ```
 
 ## Install the Required Dependencies:
